@@ -1,1 +1,1 @@
-# Teoria de la informaicon
+# Teoria de la informacion
